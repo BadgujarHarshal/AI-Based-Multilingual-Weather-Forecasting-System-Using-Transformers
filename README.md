@@ -94,4 +94,3 @@ This project is open-source for academic and research use.
 10. Project Author
 
 Harshal Rajendra Badgujar – AI-based Weather Forecasting System
-
